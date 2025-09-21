@@ -1,0 +1,3 @@
+# Universal Autocorrect Extension
+
+A Microsoft Edge extension that automatically checks spelling for every word typed in input fields and textareas using the free Datamuse API. It works in real-time on any website, replacing misspelled words with suggested corrections. To use, enable Developer Mode in Edge (`edge://extensions/`), click "Load unpacked," and select the extension folder containing `manifest.json`, `content.js`, `background.js`, `popup.html`, and icons (`icon16.png`, `icon48.png`, `icon128.png`). Lightweight, easy to install, and works on all text inputs. Perfect for auto-correcting every word you type instantly.
